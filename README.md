@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drzaphod85
-- 👀 I’m interested in Mac OS X and Homey programming 
-- 🌱 I’m currently learning Swifht and Javascript for Homey
+- 👀 I’m interested in Mac OS X, Odoo and Homey programming 
+- 🌱 I’m currently learning Swift, Python and Javascript.                              
 - 💞️ I’m looking to collaborate on Extend support for devices in Homey
 - 📫 How to reach me ...
 
